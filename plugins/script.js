@@ -1,8 +1,7 @@
 let handler  = async (m, { conn, usedPrefix }) => {
   conn.reply(m.chat, `
 *Lord Botz Menggunakan Script*
-github.com/Lord-Ammar/lordbot-v2
-_*Jangan Lupa Follow Sama Kasi Star Ya kak*_
+_*Minta Owner*_
 
 `.trim(), m)
 }
